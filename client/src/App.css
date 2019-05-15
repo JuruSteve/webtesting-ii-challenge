@@ -37,3 +37,7 @@ body {
     transform: rotate(360deg);
   }
 }
+.count {
+  display: flex;
+  justify-content: space-between;
+}
